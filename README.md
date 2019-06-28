@@ -1,3 +1,3 @@
 # Aerial-Cacuts-Identification
 Kaggle competition
-Created by: Qiang Wang, Xinrong Chen, Sherly Zhang
+* Created by: Qiang Wang, Xinrong Chen, Sherly Zhang
